@@ -21,9 +21,7 @@ SCSS : Préprocesseur CSS pour des styles plus maintenables et modulaires.
 Installation
 Pour exécuter ce projet localement, suivez les étapes ci-dessous :
 
-Clonez le dépôt :
-Copier le code
-git clone https://github.com/username/PortFolio.git
+Clonez le dépôt 
 Accédez au répertoire du projet :
 Copier le code
 cd PortFolio
